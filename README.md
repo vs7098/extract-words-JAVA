@@ -11,7 +11,7 @@ Given a sentence (string) and we have to extract words from a string using java 
      {
 	public static void main(String args[])
 	{
-		String str = "My Name Is Preeti Jain";
+		String str = "My Name Is Vinay Singh";
 		String [] words = str.split(" ", 4);
 
 		for (String word : words)
